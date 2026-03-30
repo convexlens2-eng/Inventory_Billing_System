@@ -38,21 +38,6 @@ SmartStock/
 
 ---
 
-## ⚙️ How to Run
-
-1. Clone the repository
-git clone https://github.com/Shadow123-svg/<repo-name>.git
-
-2. Navigate to project folder
-cd <repo-name>
-
-3. Compile
-javac *.java
-
-4. Run
-java Main
-
----
 
 ## ⚡ Key Functionalities
 
